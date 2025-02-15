@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mahad-s-portfolio/static/css/main.3cf8cb66.css",
+    "main.js": "/mahad-s-portfolio/static/js/main.366a3b74.js",
+    "static/media/bannerImg.png": "/mahad-s-portfolio/static/media/bannerImg.9357a528dabc2b35da83.png",
+    "static/media/contactImg.png": "/mahad-s-portfolio/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/testimonialOne.png": "/mahad-s-portfolio/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
+    "static/media/projectThree.jpeg": "/mahad-s-portfolio/static/media/projectThree.47442baa3158613330ab.jpeg",
+    "static/media/testimonialTwo.png": "/mahad-s-portfolio/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "static/media/projectTwo.jpg": "/mahad-s-portfolio/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
+    "static/media/projectOne.jpg": "/mahad-s-portfolio/static/media/projectOne.413787cfd3c9862270d5.jpg",
+    "index.html": "/mahad-s-portfolio/index.html",
+    "main.3cf8cb66.css.map": "/mahad-s-portfolio/static/css/main.3cf8cb66.css.map",
+    "main.366a3b74.js.map": "/mahad-s-portfolio/static/js/main.366a3b74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cf8cb66.css",
+    "static/js/main.366a3b74.js"
+  ]
+}
